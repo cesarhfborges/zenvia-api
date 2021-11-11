@@ -1,0 +1,11 @@
+tsconfig.json
+tslint.json
+src
+test
+coverage
+docs
+.editorconfig
+.gitignore
+.vscode
+.nyc_output
+.idea
