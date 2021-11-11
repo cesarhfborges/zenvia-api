@@ -1,0 +1,35 @@
+{
+  "name": "@cesarhfborges/zenvia-api",
+  "version": "1.0.0",
+  "description": "Zenvia.js node and js package",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "contributors": [
+    "Cesar Henrique <cesar_silk321@hotmail.com> (https://github.com/cesarhfborges)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarhfborges/zenvia-api.git"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "keywords": [
+    "zenvia",
+    "total-voice",
+    "calls"
+  ],
+  "author": "Cesar Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesarhfborges/zenvia-api/issues"
+  },
+  "homepage": "https://github.com/cesarhfborges/zenvia-api#readme"
+},
